@@ -12,7 +12,7 @@ Indeed, I decided to use just three tools to complete the task:
 * Javascript to achieve word counting
 * Bootstrap to have a nice-to-see web page
 
-Any backend is required, as well as any frontend framework, we just count words.
+No backend required, as well as any frontend framework, we just count words.
 
 
 ### Time required: 
